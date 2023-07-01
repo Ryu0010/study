@@ -1,1 +1,2 @@
 # study
+print("hello world")
